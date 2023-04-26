@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=LMcAlpine&style=flat-square&color=blue" alt=""/>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LMcAlpine&hide=contribs,prs)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
