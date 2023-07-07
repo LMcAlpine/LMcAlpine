@@ -21,17 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/luke-mcalpine/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
--->
-
-
-
-
-
 
 
 
@@ -46,6 +35,21 @@ Here are some ideas to get you started:
 
 ---
 
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/luke-mcalpine/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+-->
+### 👋 Hi, I'm Luke McAlpine 
+
+
+- 💻 I’m currently working on studying the source code for the classic DOOM (1993) game, and developing a similar engine in a modern context, leveraging JavaScript.
+- 📚 I’m learning C programming from "The C Programming Language" by Kernighan and Ritchie to help me understand the original DOOM source code.
+- 🤔 I’m seeking help with advanced C programming concepts, optimizing JavaScript for complex scenes, and best game development practices.
+- 💬 Ask me about my learning journey and the challenges I encountered while studying the original DOOM source code
+- 📫 How to reach me: lukedmcalpine@gmail.com
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LMcAlpine&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
