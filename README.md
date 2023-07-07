@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 -->
-### 👋 Hi, I'm Luke McAlpine 
+### 👋 Hi, I'm Luke McAlpine!
 
 
 - 💻 I'm currently working on studying the source code for the classic DOOM (1993) game, and developing a similar engine in a modern context, leveraging JavaScript.
