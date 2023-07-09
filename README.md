@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 
 - 💻 I'm currently working on studying the source code for the classic DOOM (1993) game, and developing a similar engine in a modern context, leveraging JavaScript.
 - 📚 I'm learning C programming from "The C Programming Language" by Kernighan and Ritchie to help me understand the original DOOM source code.
-- 🤔 I'm seeking help with advanced C programming concepts, optimizing JavaScript for complex scenes, and best game development practices.
 - 💬 Ask me about my learning journey and challenges while studying the original DOOM source code.
 - 📫 How to reach me: lukedmcalpine@gmail.com
 
