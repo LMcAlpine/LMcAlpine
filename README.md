@@ -35,6 +35,10 @@ Here are some ideas to get you started:
 
 ---
 
+- 💻 I'm currently working on studying the source code for the classic DOOM (1993) game, and developing a similar engine in a modern context, leveraging JavaScript.
+- 📚 I'm learning C programming from "The C Programming Language" by Kernighan and Ritchie to help me understand the original DOOM source code.
+- 💬 Ask me about my learning journey and challenges while studying the original DOOM source code.
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/luke-mcalpine/">
@@ -44,10 +48,7 @@ Here are some ideas to get you started:
 -->
 ### 👋 Hi, I'm Luke McAlpine!
 
-
-- 💻 I'm currently working on studying the source code for the classic DOOM (1993) game, and developing a similar engine in a modern context, leveraging JavaScript.
-- 📚 I'm learning C programming from "The C Programming Language" by Kernighan and Ritchie to help me understand the original DOOM source code.
-- 💬 Ask me about my learning journey and challenges while studying the original DOOM source code.
+- 💻 I'm currently working on a Full Stack fitness and health application, leveraging React, JavaScript, Node.js, and Express.
 - 📫 How to reach me: lukedmcalpine@gmail.com
 
 
