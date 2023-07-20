@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 -->
 ### 👋 Hi, I'm Luke McAlpine!
 
-- 💻 I'm currently working on a Full Stack fitness and health application, leveraging React, JavaScript, Node.js, and Express.
+- 💻 I'm currently working on a Full Stack fitness and health application, leveraging JavaScript, Node.js, and Express.
 - 📫 How to reach me: lukedmcalpine@gmail.com
 
 
